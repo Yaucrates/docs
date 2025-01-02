@@ -1,6 +1,23 @@
 ---
 title: The Recommended Routine
-description: Blank
+description: The Recommended Routine (frequency referred to as the RR) is, unsurpringly, the routine recommended to most beginners on the subreddit r/BodyWeightFitness.
 ---
 
-The Recommended Routine
+## Overview:
+
+The RR is a fantastic program that's accessible to most people. It
+requires minimal equipment and can easily be done from your home.
+The full routine consists of a warm up, strength work,
+
+Arguably, it's biggest flaw is how intimidating it comes off at first,
+especially to beginners. If you'd like to read the original article
+in full (which I highly recommended as this is a summary), you can find
+it in the [subreddit's wiki](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/).
+
+## Weekly Schedule
+
+The RR is meant to be completed three times per week with atleast one
+rest day in between. Some examples are:
+- Monday, Wednesday, and Friday
+- Monday, Thursday, and Saturday
+- Tuesday, Thursday, and Sunday
